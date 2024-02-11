@@ -1,5 +1,5 @@
 # fractals-linear-algebra-and-haskell
-    The main point of this repository is the little linear algebra library I wrote to do my homework which was interesting and little bit hard endeavour for me.
+The main point of this repository is the little linear algebra library I wrote to do my homework which was interesting and little bit hard endeavour for me.
 ## How to run the functions?
   There are 2 versions of the homework. The only difference is
 hw1-v1.hs includes this main function:
