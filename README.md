@@ -31,12 +31,8 @@ concatenation.
 
 ## Part 2 - Koch’s Snowflake
 ![image](https://github.com/ASAlici/fractals-linear-algebra-and-haskell/assets/144834934/41f14a2d-6315-497c-b5c8-14effebbd376)
-  From the moment I understood the weakness of my flesh, it
-disgusted me. I craved the strength and certainty of Linear Algebra. I
-aspired to the purity of the Blessed Vector.
 
-In this part, I understood I need the power of linear algebra so I wrote
-some helper code to implement it. By the way, the marked function is the
+The marked function is the
 wanted function of part 2 of the homework. With this code we can use any
 triangle for Koch’s Snowflake anywhere in 3D space.
 
@@ -49,9 +45,19 @@ vertices. By doing this, we find the direction of the vector which is
 orthogonal to the edge of the triangle to reach the third point we seek. After
 some vector summation we reach our goal.
 
+### COMING OF THE LINEAR ALGEBRA  
+
+  From the moment I understood the weakness of my flesh, it
+disgusted me. I craved the strength and certainty of Linear Algebra. I
+aspired to the purity of the Blessed Vector.
+
+In this part, I understood I need the power of linear algebra so I wrote
+some helper code to implement it. 
+
 ## Part 3 - Cube at a specified position
 ![image](https://github.com/ASAlici/fractals-linear-algebra-and-haskell/assets/144834934/2fb09e7e-c81f-4790-8edc-d9a49b5d86f8)
-The marked function here is the wanted function of part 3 of the
+
+  The marked function here is the wanted function of part 3 of the
 homework. To create a cube we need to specify 2 vectors to describe its
 orientation and 1 point to describe its place in space.(1,0,0) and (0,1,0)
 are the vectors of the example cube.
@@ -63,7 +69,8 @@ enough to describe it.
 
 ## Part 4 - Cube Pattern
 ![image](https://github.com/ASAlici/fractals-linear-algebra-and-haskell/assets/144834934/34784276-b94d-4fb2-9f41-d16f4915d785)
-Like before, the marked function here is the wanted function of part
+
+  Like before, the marked function here is the wanted function of part
 4 of the homework. Like said in the code’s comments, cubb here is just a
 standard cube I defined so that we could generate a pattern on the base
 of it.
