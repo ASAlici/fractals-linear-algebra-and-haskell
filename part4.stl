@@ -1,0 +1,590 @@
+solid Object01
+  facet
+      outer loop
+          vertex 8.0 8.0 8.0
+          vertex -8.0 -8.0 8.0
+          vertex 8.0 -8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 8.0
+          vertex -8.0 -8.0 8.0
+          vertex -8.0 8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex -8.0 8.0 8.0
+          vertex 8.0 8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex -8.0 8.0 8.0
+          vertex -8.0 8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex -8.0 -8.0 -8.0
+          vertex 8.0 -8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex -8.0 -8.0 -8.0
+          vertex -8.0 8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 -8.0 -8.0
+          vertex -8.0 -8.0 8.0
+          vertex 8.0 -8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 -8.0 -8.0
+          vertex -8.0 -8.0 8.0
+          vertex -8.0 -8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex 8.0 -8.0 8.0
+          vertex 8.0 -8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 8.0 -8.0
+          vertex 8.0 -8.0 8.0
+          vertex 8.0 8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 8.0 -8.0
+          vertex -8.0 -8.0 8.0
+          vertex -8.0 -8.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 8.0 -8.0
+          vertex -8.0 -8.0 8.0
+          vertex -8.0 8.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 16.0
+          vertex -4.0 -4.0 16.0
+          vertex 4.0 -4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 16.0
+          vertex -4.0 -4.0 16.0
+          vertex -4.0 4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex -4.0 4.0 16.0
+          vertex 4.0 4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex -4.0 4.0 16.0
+          vertex -4.0 4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex -4.0 -4.0 8.0
+          vertex 4.0 -4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex -4.0 -4.0 8.0
+          vertex -4.0 4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -4.0 8.0
+          vertex -4.0 -4.0 16.0
+          vertex 4.0 -4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -4.0 8.0
+          vertex -4.0 -4.0 16.0
+          vertex -4.0 -4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex 4.0 -4.0 16.0
+          vertex 4.0 -4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 8.0
+          vertex 4.0 -4.0 16.0
+          vertex 4.0 4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 4.0 8.0
+          vertex -4.0 -4.0 16.0
+          vertex -4.0 -4.0 8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 4.0 8.0
+          vertex -4.0 -4.0 16.0
+          vertex -4.0 4.0 16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -8.0
+          vertex -4.0 -4.0 -8.0
+          vertex 4.0 -4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -8.0
+          vertex -4.0 -4.0 -8.0
+          vertex -4.0 4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex -4.0 4.0 -8.0
+          vertex 4.0 4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex -4.0 4.0 -8.0
+          vertex -4.0 4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex -4.0 -4.0 -16.0
+          vertex 4.0 -4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex -4.0 -4.0 -16.0
+          vertex -4.0 4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -4.0 -16.0
+          vertex -4.0 -4.0 -8.0
+          vertex 4.0 -4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -4.0 -16.0
+          vertex -4.0 -4.0 -8.0
+          vertex -4.0 -4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex 4.0 -4.0 -8.0
+          vertex 4.0 -4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 4.0 -16.0
+          vertex 4.0 -4.0 -8.0
+          vertex 4.0 4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 4.0 -16.0
+          vertex -4.0 -4.0 -8.0
+          vertex -4.0 -4.0 -16.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 4.0 -16.0
+          vertex -4.0 -4.0 -8.0
+          vertex -4.0 4.0 -8.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 4.0
+          vertex 8.0 -4.0 4.0
+          vertex 16.0 -4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 4.0
+          vertex 8.0 -4.0 4.0
+          vertex 8.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 8.0 4.0 4.0
+          vertex 16.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 8.0 4.0 4.0
+          vertex 8.0 4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 8.0 -4.0 -4.0
+          vertex 16.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 8.0 -4.0 -4.0
+          vertex 8.0 4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 -4.0 -4.0
+          vertex 8.0 -4.0 4.0
+          vertex 16.0 -4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 -4.0 -4.0
+          vertex 8.0 -4.0 4.0
+          vertex 8.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 16.0 -4.0 4.0
+          vertex 16.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 16.0 4.0 -4.0
+          vertex 16.0 -4.0 4.0
+          vertex 16.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 4.0 -4.0
+          vertex 8.0 -4.0 4.0
+          vertex 8.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 8.0 4.0 -4.0
+          vertex 8.0 -4.0 4.0
+          vertex 8.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 4.0
+          vertex -16.0 -4.0 4.0
+          vertex -8.0 -4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 4.0
+          vertex -16.0 -4.0 4.0
+          vertex -16.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -16.0 4.0 4.0
+          vertex -8.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -16.0 4.0 4.0
+          vertex -16.0 4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -16.0 -4.0 -4.0
+          vertex -8.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -16.0 -4.0 -4.0
+          vertex -16.0 4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 -4.0 -4.0
+          vertex -16.0 -4.0 4.0
+          vertex -8.0 -4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 -4.0 -4.0
+          vertex -16.0 -4.0 4.0
+          vertex -16.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -8.0 -4.0 4.0
+          vertex -8.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -8.0 4.0 -4.0
+          vertex -8.0 -4.0 4.0
+          vertex -8.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -16.0 4.0 -4.0
+          vertex -16.0 -4.0 4.0
+          vertex -16.0 -4.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -16.0 4.0 -4.0
+          vertex -16.0 -4.0 4.0
+          vertex -16.0 4.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 4.0
+          vertex -4.0 8.0 4.0
+          vertex 4.0 8.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 4.0
+          vertex -4.0 8.0 4.0
+          vertex -4.0 16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex -4.0 16.0 4.0
+          vertex 4.0 16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex -4.0 16.0 4.0
+          vertex -4.0 16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex -4.0 8.0 -4.0
+          vertex 4.0 8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex -4.0 8.0 -4.0
+          vertex -4.0 16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 8.0 -4.0
+          vertex -4.0 8.0 4.0
+          vertex 4.0 8.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 8.0 -4.0
+          vertex -4.0 8.0 4.0
+          vertex -4.0 8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex 4.0 8.0 4.0
+          vertex 4.0 8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 16.0 -4.0
+          vertex 4.0 8.0 4.0
+          vertex 4.0 16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 16.0 -4.0
+          vertex -4.0 8.0 4.0
+          vertex -4.0 8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 16.0 -4.0
+          vertex -4.0 8.0 4.0
+          vertex -4.0 16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 4.0
+          vertex -4.0 -16.0 4.0
+          vertex 4.0 -16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 4.0
+          vertex -4.0 -16.0 4.0
+          vertex -4.0 -8.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex -4.0 -8.0 4.0
+          vertex 4.0 -8.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex -4.0 -8.0 4.0
+          vertex -4.0 -8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex -4.0 -16.0 -4.0
+          vertex 4.0 -16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex -4.0 -16.0 -4.0
+          vertex -4.0 -8.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -16.0 -4.0
+          vertex -4.0 -16.0 4.0
+          vertex 4.0 -16.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -16.0 -4.0
+          vertex -4.0 -16.0 4.0
+          vertex -4.0 -16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex 4.0 -16.0 4.0
+          vertex 4.0 -16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex 4.0 -8.0 -4.0
+          vertex 4.0 -16.0 4.0
+          vertex 4.0 -8.0 4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 -8.0 -4.0
+          vertex -4.0 -16.0 4.0
+          vertex -4.0 -16.0 -4.0
+      endloop
+  endfacet
+  facet
+      outer loop
+          vertex -4.0 -8.0 -4.0
+          vertex -4.0 -16.0 4.0
+          vertex -4.0 -8.0 4.0
+      endloop
+  endfacet
+ endsolid Object01
